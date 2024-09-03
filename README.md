@@ -41,10 +41,4 @@ The project's predictive analysis focuses on creating a robust prediction model 
 
 The project provides actionable data-driven strategies for hotel booking management, including tailored offers, resource optimization, non-refundable booking strategies, and personalized marketing campaigns. These strategies aim to improve booking retention and operational efficiency in the hotel industry.
 
-## References
 
-[Include references to relevant literature, datasets, and R packages used in the project.]
-
-## Appendices
-
-[Include any additional information or resources related to the project, such as data folders or supplementary materials.]
